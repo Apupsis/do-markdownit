@@ -1,6 +1,6 @@
-# do-markdownit
+# do-markdownit for local Npm
 
-Markdown-It plugin for the DigitalOcean Community.
+Fork for Markdown-It plugin for the DigitalOcean Community.
 
 This plugin is what we use across the
 [DigitalOcean Community](https://www.digitalocean.com/community) site to extend the standard
